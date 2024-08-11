@@ -67,5 +67,14 @@ After running the application, you will see a menu with the following options:
 4. **Display All Entries:** Show all current entries in the dictionary.
 5. **Exit:** Terminate the application.
 
-### Sample Interaction
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. You can also open an issue to report bugs or request features.
+
+
+## Acknowledgments
+
+- Code examples and ideas are based on resources from GeeksforGeeks: [C# Dictionary with Examples](https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/).
+
 
