@@ -76,5 +76,5 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 ## Acknowledgments
 
 - Code examples and ideas are based on resources from GeeksforGeeks: [C# Dictionary with Examples](https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/).
-
+- Need help with markdown syntax: https:[Markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
