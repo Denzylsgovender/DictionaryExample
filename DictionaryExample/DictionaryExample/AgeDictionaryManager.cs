@@ -12,7 +12,7 @@ namespace DictionaryExample
 
         //Title:C# Dictionary with examples
         //Author:geeksforgeeks
-        //Date:16 February 2023
+        //Date:12 August 2025
         //Version:01
         //Availability: https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/
         
@@ -79,4 +79,5 @@ namespace DictionaryExample
         }
     }
 }
+
 
