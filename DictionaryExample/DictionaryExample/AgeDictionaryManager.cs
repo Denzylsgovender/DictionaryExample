@@ -10,6 +10,12 @@ namespace DictionaryExample
     {
         private Dictionary<string, int> ageDictionary;
 
+        //Title:C# Dictionary with examples
+        //Author:geeksforgeeks
+        //Date:16 February 2023
+        //Version:01
+        //Availability: https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/
+        
         public AgeDictionaryManager()
         {
             // Initialize the dictionary.
@@ -73,3 +79,4 @@ namespace DictionaryExample
         }
     }
 }
+
